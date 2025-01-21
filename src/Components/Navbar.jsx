@@ -18,7 +18,7 @@ const Navbar = () => {
     <div className='w-full h-16 dark:bg-black bg-gray-100 bg-opacity-100 flex justify-between items-center fixed top-0 z-50 lg:px-80 md:px-20 px-10 font-Acme'>
         <div className='flex lg:gap-4 gap-2  lg:text-xl md:text-lg text-base text-black dark:text-white'>
             <p className='cursor-pointer dark:hover:text-gray-300 hover:text-gray-400 transition duration-500 ease-in-out'>home</p>
-            <p className='cursor-pointer dark:hover:text-gray-300 hover:text-gray-400 transition duration-500 ease-in-out'>projects</p>
+            <p className='cursor-pointer dark:hover:text-gray-300 hover:text-gray-400 transition duration-500 ease-in-out'>about</p>
             <p className='cursor-pointer dark:hover:text-gray-300 hover:text-gray-400 transition duration-500 ease-in-out'>education</p>
         </div>
         <div className='flex gap-3'>
